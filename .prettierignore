@@ -1,0 +1,7 @@
+build
+docs
+coverage
+scripts/generator/assets
+.snyk
+app/static/*.js
+app/static/*.css
